@@ -1,0 +1,8 @@
+numpy
+scipy
+tqdm
+scikit-learn
+sentencepiece==0.1.91
+transformers==4.2.0
+pytorch==1.6.0
+faiss-cpu==1.6.4
